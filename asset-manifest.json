@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.faf72e2b.chunk.css",
+    "main.js": "/static/js/main.77fffc86.chunk.js",
+    "main.js.map": "/static/js/main.77fffc86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.55886483.js",
+    "runtime-main.js.map": "/static/js/runtime-main.55886483.js.map",
+    "static/js/2.205a548d.chunk.js": "/static/js/2.205a548d.chunk.js",
+    "static/js/2.205a548d.chunk.js.map": "/static/js/2.205a548d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aad321ce727bb9a3988b315946cb718b.js": "/precache-manifest.aad321ce727bb9a3988b315946cb718b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.faf72e2b.chunk.css.map": "/static/css/main.faf72e2b.chunk.css.map",
+    "static/js/2.205a548d.chunk.js.LICENSE": "/static/js/2.205a548d.chunk.js.LICENSE",
+    "static/media/Icon.module.css": "/static/media/times.1e03a9c3.svg",
+    "static/media/CategoryIcon.module.css": "/static/media/wifi.342c59fa.svg",
+    "static/media/index.css": "/static/media/corbel.a666a3dc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55886483.js",
+    "static/js/2.205a548d.chunk.js",
+    "static/css/main.faf72e2b.chunk.css",
+    "static/js/main.77fffc86.chunk.js"
+  ]
+}
